@@ -1,5 +1,7 @@
 # hello-modular
 
+![layout](images/layout.png)
+
 Run [modular](https://github.com/jpmorganchase/modular) in Kubernetes.
 
 
