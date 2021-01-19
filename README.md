@@ -4,7 +4,9 @@ Run [modular](https://github.com/jpmorganchase/modular) in Kubernetes.
 
 
 ## Requirements
-
+- kubectl 
+- kind
+- docker
 
 ## Steps
 
