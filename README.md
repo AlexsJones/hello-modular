@@ -9,6 +9,7 @@ Run [modular](https://github.com/jpmorganchase/modular) in Kubernetes.
 - kubectl 
 - kind
 - docker
+- helm
 
 ## Steps
 
