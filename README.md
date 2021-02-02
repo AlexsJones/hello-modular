@@ -6,9 +6,12 @@ Run [modular](https://github.com/jpmorganchase/modular) in Kubernetes.
 
 
 ## Requirements
+- kubectl 
+- kind
+- docker
+- helm
 
-
-## Steps
+## Steps
 
 1. `docker build -t hello-modular .`
 2. `docker tag hello-modular $USERNAME/hello-modular:v1`
